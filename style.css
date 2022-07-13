@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(197, 238, 238);
+}
+#add{
+    background-color: rgb(127, 127, 222);
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-size: 22px;
+}
+#main{
+    margin-left: 600px;
+}
+.close{
+    float: right;
+}
+ul{
+    list-style: none;
+}
+li:nth-of-type(odd){
+    background-color: rgb(250, 235, 217);
+    padding: 5px;
+    margin-left: -43px;
+
+}
+li:nth-of-type(even)
+{
+    background-color: rgb(178, 176, 176);
+    padding: 5px;
+    margin-left: -43px;
+
+}
